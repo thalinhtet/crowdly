@@ -62,7 +62,7 @@ export default function Header() {
                                 </div>
                                 <div className='flex items-center space-x-5 max-sm:hidden'>
                                     <ThemeButton />
-                                    <a href="https://github.com/victor891263/quizwiz" target="_blank" rel="noreferrer" ><GitHubIcon className={'h-5 w-5'} /></a>
+                                    <a href="https://github.com/thalinhtet/crowdly" target="_blank" rel="noreferrer" ><GitHubIcon className={'h-5 w-5'} /></a>
                                 </div>
                             </div>
                         </div>
@@ -110,10 +110,10 @@ export default function Header() {
                                     }} className='primary w-full'>Add post</button></div>}
                                 </div>
                                 <div className='border-t mt-5 pt-5 flex items-center justify-between'>
-                                    <div className='text-sm text-slate-400'>© 2023 Victor</div>
+                                    <div className='text-sm text-slate-400'>© {new Date().getFullYear()} Victor</div>
                                     <div className='flex space-x-3.5'>
                                         <ThemeButton />
-                                        <a href="https://github.com/victor891263/quizwiz" target="_blank" rel="noreferrer" ><GitHubIcon className={'h-5 w-5'} /></a>
+                                        <a href="https://github.com/thalinhtet/crowdly" target="_blank" rel="noreferrer" ><GitHubIcon className={'h-5 w-5'} /></a>
                                     </div>
                                 </div>
                             </div>

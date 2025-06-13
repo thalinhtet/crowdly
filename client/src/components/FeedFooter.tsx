@@ -26,7 +26,7 @@ export default function FeedFooter() {
                     </>
                 )}
             </div>
-            <p className="text-center mt-2">© 2023 Victor. All rights reserved.</p>
+            <p className="text-center mt-2">© {new Date().getFullYear()} Victor. All rights reserved.</p>
         </div>
     )
 }

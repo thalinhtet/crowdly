@@ -25,7 +25,7 @@ export default function Verify() {
                 <div className='text-center max-w-md'>
                     <CheckWithCircle className='h-10 w-10 text-slate-400/60 mx-auto' />
                     <div className='mt-5 subtitle'>Verification complete!</div>
-                    <p className='mt-3'>Your email has been verified successfully. You can now start using Quizwiz.</p>
+                    <p className='mt-3'>Your email has been verified successfully. You can now start using Crowdly.</p>
                     <button onClick={() => window.location.href = '/'} className='mt-7 mx-auto primary' >Start browsing</button>
                 </div>
             )}

@@ -102,7 +102,7 @@ max-w-xl mx-auto'>
                             <CheckIcon className={"flex-shrink-0 w-6 h-6 text-violet-600"} />
                             <div className="ml-3">
                                 <dt className="text-lg font-bold dark:text-white">Transparency and collaboration.</dt>
-                                <dd className="mt-2 text-gray-700 dark:text-gray-300">As an open-source app, our code is available for all to see on <a href="https://github.com/victor891263/crowdly" target="_blank" rel='noreferrer' className="text-violet-600">GitHub</a>. This allows the people to contribute to Crowdly's development.</dd>
+                                <dd className="mt-2 text-gray-700 dark:text-gray-300">As an open-source app, our code is available for all to see on <a href="https://github.com/thalinhtet/crowdly" target="_blank" rel='noreferrer' className="text-violet-600">GitHub</a>. This allows the people to contribute to Crowdly's development.</dd>
                             </div>
                         </div>
                     </dl>
